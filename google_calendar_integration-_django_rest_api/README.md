@@ -1,6 +1,5 @@
 ## Google Calendar API OAuth 2.0 for Web Server Applications Integration - Django Rest Framework
-
-Problem: In this assignment you have to implement google calendar integration using django rest api. 
+In this assignment you have to implement google calendar integration using django rest api. 
 You need to use the OAuth2 mechanism to get users calendar access. Below are detail of API endpoint and corresponding views which you need to implement
 
 For run this project on a local machine: 
